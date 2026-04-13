@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy Marcos López De Castro!
-# 👋 ¡Hello, I'm Marcos López De Castro!
+# 👋 Hi, I'm Marcos López De Castro!
 
 🎓 **PhD candidate in Applied Engineering** at TECNUN School of Engineering, University of Navarra under the supervision of Rubén Armañanzas. Currently, working as **AI Researcher** at DATAI (Institute of Data Science and Artificial Intelligence, Navarra, Spain).
 🎓 During late 2025, I was a **Visiting Scientist** at Ghent University doing a predoctoral research stay under the supervision of Prof. Yvan Saeys.
