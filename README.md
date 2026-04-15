@@ -1,8 +1,8 @@
-# 👋 ¡Hola, soy Marcos López De Castro!
 # 👋 Hi, I'm Marcos López De Castro!
 
-🎓 **PhD candidate in Applied Engineering** at TECNUN School of Engineering, University of Navarra under the supervision of Rubén Armañanzas.
-**Currently**, working as **AI Researcher** at DATAI (Institute of Data Science and Artificial Intelligence, Navarra, Spain).
+💻**Currently**, working as **AI Researcher** at DATAI (Institute of Data Science and Artificial Intelligence, Navarra, Spain).
+🎓I'm also **PhD candidate in Applied Engineering** at TECNUN School of Engineering, University of Navarra under the supervision of Rubén Armañanzas.
+
 
 🎓 During late 2025, I was a **Visiting Scientist** at Ghent University doing a predoctoral research stay under the supervision of Prof. Yvan Saeys.
 🧬 **My main area of research** is distribution-free uncertainty quantification in machine learning models and knowledge discovery. I extensively work with Conformal Prediction applied (but not limited) to biomedical domains (such as scRNA-seq) and feature selection algorithms.
